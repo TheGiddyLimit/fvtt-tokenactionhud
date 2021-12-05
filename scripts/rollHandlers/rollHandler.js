@@ -87,7 +87,7 @@ export class RollHandler {
   }
 
   isCtrl(event) {
-    return keyboard?.isCtrl(event);
+    return event?.ctrlKey;
   }
 
   isShift(event) {

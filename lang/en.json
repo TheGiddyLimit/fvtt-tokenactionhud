@@ -491,6 +491,13 @@
       "items": "items",
       "sacraments": "Sacraments",
       "consumables": "Consumables"
+    },
+    "dnd4e": {
+      "atwill": "At Will",
+      "daily":"Daily",
+      "encounter": "Encounter",
+      "recharge":"Recharge",
+      "other": "Other"
     }
   }
 }
